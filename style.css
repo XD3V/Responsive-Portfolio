@@ -215,19 +215,14 @@ input[type=text], select {
 
   .space 
   {
-     margin-top: 1% !important;
-      margin-left: 1% !important;
-      margin-right: 1% !important;
-     
+     margin: 2% !important;
   }
 
   .websiteNames{
     font-weight: bolder !important;
     font-size: 100% !important;
     color: rgb(71, 71, 71) !important;
-    margin-top:10%  !important;
-    margin-bottom:10%  !important;
-    /* margin-left: 50% !important; */
+    margin: 2% !important;
 
   }
 
